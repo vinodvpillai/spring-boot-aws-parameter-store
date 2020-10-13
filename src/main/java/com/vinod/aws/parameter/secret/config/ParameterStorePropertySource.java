@@ -1,7 +1,5 @@
 package com.vinod.aws.parameter.secret.config;
 
-import com.amazonaws.services.simplesystemsmanagement.model.ParameterNotFoundException;
-import lombok.extern.java.Log;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.core.env.PropertySource;
 
